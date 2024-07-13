@@ -1,12 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../css/LinksContainer.css';
 
 const LinksContainer = () => (
   <div className="links-container">
-    <a href="https://drive.google.com/file/d/1w2NO16XVEbMI9Wg4WXFkvigV3G9KzBKb/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
-    <a href="#">Ask Me Anything</a>
+    <Link to="/ask-me-anything">Ask Me Anything</Link>
     <a href="#">Bucket list</a>
   </div>
 );

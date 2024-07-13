@@ -7,7 +7,7 @@
   background-color: #ffffff;
   position: relative;
   cursor: pointer;
-  padding: 8px;
+  padding: 15px ;
   margin: 8px 0;
 }
 
@@ -50,7 +50,7 @@
 }
 
 .project-description {
-  font-size: 0.9rem;
+  font-size: 0.84rem;
   color: #6b7280;
   margin: 0;
 }
