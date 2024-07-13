@@ -8,7 +8,7 @@ const LinksContainer = () => (
       Resume
     </a>
     <Link to="/ask-me-anything">Ask Me Anything</Link>
-    <a href="#">Bucket list</a>
+    <a href="/bucket-list">Bucket list</a>
   </div>
 );
 
