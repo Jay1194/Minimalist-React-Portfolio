@@ -19,4 +19,4 @@ This is a minimalist and clean portfolio website built with React, designed to s
 
 ## Deployment
 
-- **Netfly:** This app is deployed on Netlifly.
+- **Netfly:** This app is deployed on Netlify.
