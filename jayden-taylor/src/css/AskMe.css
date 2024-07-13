@@ -28,26 +28,22 @@
   .ama-content {
     display: flex;
     flex-direction: column;
-    gap: 5px;
-  }
-  
-  .ama-content h2 {
-    font-size: 1.5rem;
-    margin-bottom: 16px;
+    gap: 3px;
   }
   
   .qa {
-    margin-bottom: 10px;
+    margin-bottom: 4px;
   }
   
   .qa h3 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     margin-bottom: 8px;
   }
   
   .qa p {
-    font-size: 1rem;
+    font-size: 0.84rem;
     color: #6b7280;
+    line-height: 1.7;
   }
   
 

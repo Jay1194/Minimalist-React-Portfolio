@@ -4,7 +4,7 @@ import '../css/LinksContainer.css';
 
 const LinksContainer = () => (
   <div className="links-container">
-    <a href="" target="_blank" rel="noopener noreferrer">
+    <a href="#">
       Resume
     </a>
     <Link to="/ask-me-anything">Ask Me Anything</Link>
