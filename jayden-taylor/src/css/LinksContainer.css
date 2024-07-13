@@ -1,0 +1,24 @@
+.links-container {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.links-container a,
+.links-container .link-button {
+  font-size: 1rem;
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.links-container a:hover,
+.links-container .link-button:hover {
+  text-decoration: underline;
+  text-underline-offset: 2.2px;
+}
