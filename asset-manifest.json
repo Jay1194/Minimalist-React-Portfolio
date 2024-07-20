@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Minimalist-React-Portfolio/static/css/main.fb1f7f31.css",
+    "main.js": "/Minimalist-React-Portfolio/static/js/main.2c93a236.js",
+    "static/js/453.47fe2500.chunk.js": "/Minimalist-React-Portfolio/static/js/453.47fe2500.chunk.js",
+    "index.html": "/Minimalist-React-Portfolio/index.html",
+    "main.fb1f7f31.css.map": "/Minimalist-React-Portfolio/static/css/main.fb1f7f31.css.map",
+    "main.2c93a236.js.map": "/Minimalist-React-Portfolio/static/js/main.2c93a236.js.map",
+    "453.47fe2500.chunk.js.map": "/Minimalist-React-Portfolio/static/js/453.47fe2500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1f7f31.css",
+    "static/js/main.2c93a236.js"
+  ]
+}
