@@ -56,10 +56,6 @@ const BucketList = () => (
       <h3>Attend a Global Tech Conference</h3>
       <p>Network with industry leaders and pioneers</p>
     </div>
-    <div className="bucket-item">
-      <h3>A picture from me significant event</h3>
-      <p>Dallas, Texas | 2022</p>
-      </div>
     </div>
   </div>
 );

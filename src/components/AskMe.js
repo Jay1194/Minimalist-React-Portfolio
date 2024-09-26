@@ -31,10 +31,6 @@ const AskMe = () => (
         <p>Embracing Adaptability: I excel in dynamic environments where requirements change frequently. My flexibility allows me to quickly adjust to new tools and project needs.</p>
         <p>Effective Collaboration: I value team input and communicate clearly. This approach ensures we make informed decisions and work well together.</p>
       </div>
-      <div className="qa">
-        <h3>A picture of me</h3>
-        <p>Looking over Vancouver | 2020</p>
-      </div>
     </div>
   </div>
 );
